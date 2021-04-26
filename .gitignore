@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+*.pyc
+
+old_ntbs/
+4_deepsets/data/
+
+*.npy
+*.npz
