@@ -31,5 +31,10 @@ This is a repository for my Bachelor thesis called Exploring Symmetries in Deep 
 
 ### [3.1 Graph Neural Networks](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/6_gnns)
 
+## Chapter 4: Rubik's Cube State Classification
+
+### [3.1 GNNs for Rubik's Cube State Classification](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/6_nontrivial)
+
+
 
 
