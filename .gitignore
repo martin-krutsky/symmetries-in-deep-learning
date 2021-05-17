@@ -8,3 +8,7 @@ old_ntbs/
 
 *.npy
 *.npz
+
+*.pgf
+*.pdf
+
