@@ -5,35 +5,31 @@ This is a repository for my Bachelor thesis called Exploring Symmetries in Deep 
 
 ### 1.1 Binary Logic Functions
 
-#### [1.1.1 Baseline with Vanilla NNs](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/1_binlogic_baseline)
+#### [1.1.1 Baseline with Vanilla NNs](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/master/1_binlogic_baseline)
 
-#### [1.1.2 NNs with Weight Sharing](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/1_binlogic_weightsharing)
-
-
-### 1.2 N-Dimensional Logic Functions
-
-#### [1.2.1 Baseline with Vanilla NNs](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/1_ndimlogic_baseline)
-
-#### [1.2.2 NNs with Weight Sharing](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/1_ndimlogic_weightsharing)
-
-
-### 1.3 Set Summation
-
-#### [1.3.1 Deep Sets](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/4_deepsets)
+#### [1.1.2 NNs with Weight Sharing](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/master/2_binlogic_sharing)
 
 
 ## Chapter 2: Functions Invariant to Translations
 
-### [2.1 Convolutional Neural Networks](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/5_cnns)
+### [2.1 Convolutional Neural Networks](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/master/5_cnns)
 
 
-## Chapter 3: Graph Isomorphisms
+## Chapter 3: Functions Invariant to Input Permutations
 
-### [3.1 Graph Neural Networks](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/6_gnns)
+### [3.1 N-Dimensional Logic Functions - 3D XOR](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/master/3_ndimlogic)
 
-## Chapter 4: Rubik's Cube State Classification
 
-### [3.1 GNNs for Rubik's Cube State Classification](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/main/6_nontrivial)
+### [3.2 Set Summation - Deep Sets](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/master/4_deepsets)
+
+
+## Chapter 4: Graph Isomorphisms
+
+### [3.1 Graph Neural Networks](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/master/6_gnns)
+
+## Chapter 5: Rubik's Cube State Classification
+
+### [3.1 GNNs for Rubik's Cube State Classification](https://github.com/martin-krutsky/symmetries-in-deep-learning/tree/master/7_nontrivial)
 
 
 
