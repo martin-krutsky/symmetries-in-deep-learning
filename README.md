@@ -1,5 +1,5 @@
 # Symmetries-in-Neural-Networks
-This is a repository for my Bachelor's thesis at FEE CTU, called Exploring Symmetries in Deep Learning.
+This is a repository for my Bachelor's thesis at FEE CTU, called [Exploring Symmetries in Deep Learning](https://dspace.cvut.cz/handle/10467/94670).
 
 ## Chapter 1: Functions Invariant to Input Permutations
 
